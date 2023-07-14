@@ -9,10 +9,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
- * @author chenjun
- * 
- * 异常处理配置
- *
+ * @author 异常处理配置
  */
 @Slf4j
 @RestControllerAdvice
